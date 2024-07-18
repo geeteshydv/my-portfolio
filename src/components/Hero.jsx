@@ -71,7 +71,7 @@ const Hero = () => {
                 variants={container2(0.4)}
                 initial="hidden"
                 animate="visible"
-                className="lg:w-[420px] lg:h-[500px] rounded-3xl sm:h-[200px] z-10"
+                className="lg:w-auto lg:h-[450px] rounded-3xl sm:h-[200px] z-10"
                 src={my_image}
                 alt="Geetesh Yadav"
               />

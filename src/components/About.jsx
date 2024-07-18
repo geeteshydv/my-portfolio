@@ -39,7 +39,7 @@ const About = () => {
               variants={container(0)}
               initial="hidden"
               animate="visible"
-              className="w-[350px] h-[400px] pl-6 "
+              className="w-[350px] h-[400px] pl-9 mb-6"
               src={my_image}
               alt=""
             />

@@ -47,7 +47,7 @@ const Project = () => {
                       src={cur.img}
                       alt=""
                       key={index}
-                      className="w-[320px] h-[230px] mb-2 rounded-md relative"
+                      className="w-[320px] h-[230px] mb-6 rounded-md relative"
                     />
                   </a>
                 </motion.div>
