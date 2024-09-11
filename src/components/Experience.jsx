@@ -61,7 +61,7 @@ const Experience = () => {
                 >
                   <h6>
                     {cur.role} -{" "}
-                    <span className="text-sm text-purple-400">
+                    <span className="text-lg text-purple-400">
                       {cur.company}
                     </span>
                   </h6>
@@ -70,7 +70,7 @@ const Experience = () => {
                   </p>
                   {cur.technologies.map((tech, index) => (
                     <span
-                      className="text-sm mr-2 mt-3 rounded-md bg-neutral-900 px-2 py-1 font-medium text-purple-800"
+                      className="text-sm m-3 my-4 rounded-md bg-neutral-900 px-2 py-1 font-medium text-purple-800"
                       key={index}
                     >
                       {tech}

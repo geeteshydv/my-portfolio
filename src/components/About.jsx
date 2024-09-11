@@ -65,9 +65,9 @@ const About = () => {
               </p>
               <p className="mb-4">
                 ✅ I have completed my B.Tech in IT from KIET Group of
-                Institutions, Ghaziabad, with an SGPA of 7.65 till the 7th
-                semester. I completed my 12th grade at KCM School, Moradabad,
-                scoring 91.2%, and 10th grade with 85.6%.
+                Institutions, Ghaziabad, with an SGPA of 7.73 in July 2024. I
+                completed my 12th grade at KCM School, Moradabad, scoring 91.2%,
+                and 10th grade with 85.6%.
               </p>
               <p className="mb-4">
                 ✅ I have experience working with MongoDB for backend
